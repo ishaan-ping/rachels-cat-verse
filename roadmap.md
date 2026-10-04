@@ -2,3 +2,4 @@
 - [x] Build the loading entry, illustrated hero, cat system, and interactive sections.
 - [x] Create the stylized badminton portrait from the reference without displaying the photo.
 - [x] Verify desktop/mobile interactions and visual layout.
+- [x] Show only Rachel, Poly, and Imli together in the photo booth.
